@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">API_Pais</string>
+    <string name="txtTitulo">Banderas Nacionales</string>
+    <string name="txtName">Nombre Común:</string>
+    <string name="txtOffice">Nombre Oficial:</string>
+    <string name="imgBand">Bandera</string>
+    <string name="txtAlt">Descripción:</string>
+    <string name="txtUrl">Url Imagen:</string>
+</resources>

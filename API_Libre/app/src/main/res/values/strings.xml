@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">API_Libre</string>
+    <string name="txtSlugT">Apodo Casa:</string>
+    <string name="txtNameT">Nombre Casa:</string>
+    <string name="txtName2T">Miembros:</string>
+    <string name="txtSlug2T">Apodo:</string>
+    <string name="imgD">Drangon\n</string>
+    <string name="txtTitulo">GAME OF THRONES</string>
+</resources>

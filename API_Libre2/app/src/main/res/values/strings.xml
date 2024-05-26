@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">API_Libre2</string>
+    <string name="txtTotal">HORROR BOOKS</string>
+    <string name="imgMovie">Movies</string>
+    <string name="txtTitulo">GAME OF THRONES</string>
+    <string name="txtIdT">Id:</string>
+    <string name="txtYearT">Nombre:</string>
+    <string name="txtTittleT">Apellido:</string>
+    <string name="txtHandle">Nombre Completo:</string>
+    <string name="txtEditorialT">Título:</string>
+    <string name="txtISBNT">Familia:</string>
+    <string name="txtPageT">Imagen:</string>
+    <string name="txtNotesT">Imagen URL:</string>
+    <string name="txtCreateT">Creado en:</string>
+    <string name="txtVillanos">Villanos:</string>
+</resources>
